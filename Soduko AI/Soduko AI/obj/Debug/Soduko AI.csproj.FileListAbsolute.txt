@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\bin\Debug\Soduko AI.exe.config
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\bin\Debug\Soduko AI.exe
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\bin\Debug\Soduko AI.pdb
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\obj\Debug\Soduko AI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\obj\Debug\Soduko_AI.Form1.resources
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\obj\Debug\Soduko_AI.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\obj\Debug\Soduko AI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\obj\Debug\Soduko AI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\obj\Debug\Soduko AI.exe
+C:\Users\Administrator\source\repos\Soduko AI\Soduko AI\obj\Debug\Soduko AI.pdb
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\bin\Debug\Soduko AI.exe.config
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\bin\Debug\Soduko AI.exe
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\bin\Debug\Soduko AI.pdb
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\obj\Debug\Soduko_AI.Form1.resources
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\obj\Debug\Soduko_AI.Properties.Resources.resources
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\obj\Debug\Soduko AI.csproj.GenerateResource.cache
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\obj\Debug\Soduko AI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\obj\Debug\Soduko AI.exe
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\obj\Debug\Soduko AI.pdb
+C:\Users\Administrator\Music\Soduko AI\Soduko AI\obj\Debug\Soduko AI.csproj.AssemblyReference.cache
